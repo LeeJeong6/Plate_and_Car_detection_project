@@ -1,0 +1,13 @@
+
+**/*.jpg
+**/*.yaml
+**/*.txt
+**/*.json
+**/*.jpeg
+**/*.png
+**/*.avi
+**/*.pt
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
